@@ -6,6 +6,10 @@
 
 ![shimmer_demo](https://user-images.githubusercontent.com/10756609/66129234-20288300-e60d-11e9-8b56-b833e1e6bd7f.gif)
 
+## 📸 Screenshot :
+
+![Shimmer Mock up](https://user-images.githubusercontent.com/10756609/66143211-64734d80-e624-11e9-99fa-7db31702dba6.jpg)
+
 ## Requirements :
 
 * Any Operating System (ie. MacOS X, Linux, Windows)
