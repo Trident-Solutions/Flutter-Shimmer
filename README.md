@@ -1,4 +1,5 @@
 [![Screenshot](https://tridentnets.com/banner.png)](https://tridentnets.com/)
+
 # Flutter Shimmer
  Simple shimmering effect like Facebook for any view using [Shimmer](https://pub.dev/packages/shimmer) library
  
